@@ -3,7 +3,7 @@ MAINTAINER PABLO CISNEROS "pcisnerp@gmail.com"
 
 COPY    ./src /app/src
 
-EXPOSE 5000
+EXPOSE 443
 
 ENTRYPOINT  ["python3"]
 
